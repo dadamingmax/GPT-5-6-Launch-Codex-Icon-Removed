@@ -57,20 +57,9 @@ Coding Agent Index上Sol拿**80分,比Fable 5高2.8分**,输出Token不到一半
 
 它能接Gmail、Google Drive、Slack、Teams、SharePoint、日历、CRM这些,从各处取资料,然后直接产出Excel表格、Word文档、PPT、分析报告,甚至能做交互式网站。桌面端还能读本地文件、开内置浏览器、用Computer Use点鼠标敲键盘挪文件。
 
-:::: column
-::: column-left
-
-
-![](https://files.mdnice.com/user/166515/89764fe7-2e8d-431e-b06c-448b30e50c31.png)
-
-:::
-::: column-right
-
-
 
 ![](https://files.mdnice.com/user/166515/5fb6eeda-c679-4731-b83e-29a4704138d9.jpg)
-:::
-::::
+
 
 
 这跟以前的ChatGPT差别挺大。以前你让它"根据这些资料写份报告",它给你的是一段文字,你自己还得排版做成PPT。现在你直接说"从Drive里把上月销售数据拉出来,对比预算,找出异常,更新Excel,再按公司模板做张汇报PPT",**它给你的就是处理好的成品文件**。
